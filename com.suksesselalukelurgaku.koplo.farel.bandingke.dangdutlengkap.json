@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -29,7 +29,7 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "3",
+"INTER_COUNT" : "2",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : true,
@@ -39,10 +39,10 @@
 "MODE_OFFLINE_MP3" : true,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
-"STARTAPPID" : "",
+"STARTAPPID" : "207681605",
 
-"ADMOB_BANNER" : "x",
-"ADMOB_INTER" : "x",
+"ADMOB_BANNER" : "ca-app-pub-8309523599849499/7715778572",
+"ADMOB_INTER" : "ca-app-pub-8309523599849499/6372575618",
 "ADMOB_NATIV" : "x",
 
 "HPK_ALIENDROID" : "",
